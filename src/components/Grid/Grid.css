@@ -1,0 +1,11 @@
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.parent > div{
+    width: 250px;
+    border: 1px solid grey;
+}
+.parent > div img{
+    width: 50px;
+}

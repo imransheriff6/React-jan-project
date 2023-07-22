@@ -1,0 +1,13 @@
+#parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+}
+#parent h1{
+    width: 300px;
+}
+#parent a,#parent button{
+    margin-left: 10px;
+}
